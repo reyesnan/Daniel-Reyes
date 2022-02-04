@@ -20,6 +20,8 @@ public class JavaApplication14 {
         // TODO code application logic here
         
             // TODO code application logic here
+        
+        System.out.println("hello");
     }
 
 }

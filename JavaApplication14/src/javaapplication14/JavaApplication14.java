@@ -24,11 +24,7 @@ public class JavaApplication14 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
+       
     }
 
 }
